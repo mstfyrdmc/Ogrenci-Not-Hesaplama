@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\bin\Debug\Öğrenci Geçti-Kaldı Hesaplama.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\bin\Debug\Öğrenci Geçti-Kaldı Hesaplama.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\bin\Debug\Öğrenci Geçti-Kaldı Hesaplama.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\obj\Debug\Öğrenci Geçti-Kaldı Hesaplama.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\obj\Debug\Öğrenci_Geçti_Kaldı_Hesaplama.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\obj\Debug\Öğrenci_Geçti_Kaldı_Hesaplama.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\obj\Debug\Öğrenci Geçti-Kaldı Hesaplama.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\obj\Debug\Öğrenci Geçti-Kaldı Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\obj\Debug\Öğrenci Geçti-Kaldı Hesaplama.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Öğrenci Geçti-Kaldı Hesaplama\Öğrenci Geçti-Kaldı Hesaplama\obj\Debug\Öğrenci Geçti-Kaldı Hesaplama.pdb
